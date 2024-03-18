@@ -1,0 +1,2 @@
+Nume fisier: text; dimensiune: 196; extensie: .xls; tip read-only
+Nume fisier: integer; dimensiune: 155; extensie: .txt; tip normal
